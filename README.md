@@ -12,16 +12,16 @@ complete execution, from arrival in the ready queue to termination.
 
 2. Simulation:
  The heart of this project is the simulation component, where the software emulates the behavior of different scheduling algorithms on a set of processes. Here's how it works:
- a. Input Parameters: The program prompts the user to input various parameters:
+ - a. Input Parameters: The program prompts the user to input various parameters:
  - Number of processes: The quantity of processes to be scheduled.
  - Burst times: The execution time required for each process.
  - Time quantum (for Round Robin scheduling): The maximum amount of CPU time each process can have in a single turn.
  - Priority levels (for Priority Disk Scheduling): A priority associated with each process, which dictates the order of execution.
-b. Scheduling Algorithms: The user selects one of the available scheduling algorithms (FCFS, SJF, Round Robin, or Priority Disk Scheduling).
-c. Simulation Execution: The simulator runs the chosen scheduling algorithm on the 
+- b. Scheduling Algorithms: The user selects one of the available scheduling algorithms (FCFS, SJF, Round Robin, or Priority Disk Scheduling).
+- c. Simulation Execution: The simulator runs the chosen scheduling algorithm on the 
 provided processes and records data for each process, such as waiting time, turnaround 
 time, and completion order.
-d. Performance Metrics Calculation: After simulating all processes, the simulator calculates the average waiting time and average turnaround time based on the data recorded during execution.
+- d. Performance Metrics Calculation: After simulating all processes, the simulator calculates the average waiting time and average turnaround time based on the data recorded during execution.
 3. Performance Evaluation:
  Once the simulation is complete, the program provides the following valuable information:
  - Waiting Time and Turnaround Time for each individual process, which allows users to assess the efficiency of the selected algorithm for each process.
