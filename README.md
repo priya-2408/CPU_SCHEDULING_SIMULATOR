@@ -23,7 +23,7 @@ provided processes and records data for each process, such as waiting time, turn
 time, and completion order.
 - d. Performance Metrics Calculation: After simulating all processes, the simulator calculates the average waiting time and average turnaround time based on the data recorded during execution.
 3. Performance Evaluation:
- Once the simulation is complete, the program provides the following valuable information:
+  Once the simulation is complete, the program provides the following valuable information:
  - Waiting Time and Turnaround Time for each individual process, which allows users to assess the efficiency of the selected algorithm for each process.
  - Average Waiting Time: This metric provides insight into how efficiently the selected algorithm utilizes CPU time, as a lower average waiting time indicates better performance.
  - Average Turnaround Time: This metric reflects how quickly processes are completed, making it another critical performance indicator.
