@@ -46,4 +46,13 @@ manner. If a process doesn't complete in the time quantum, it's moved to the end
 queue.
  - Priority Disk Scheduling: Processes are executed based on their priority levels. 
 The process with the highest priority goes first.
+
+# SCREENSHOTS
+
+![Screenshot 2025-02-01 033054](https://github.com/user-attachments/assets/064dbcd3-ab0c-4982-932a-491145fff1f8)
+![Screenshot 2025-02-01 033130](https://github.com/user-attachments/assets/ffc1b8bd-776d-414e-8e74-6cbb776428c4)
+![Screenshot 2025-02-01 033146](https://github.com/user-attachments/assets/1e85b37e-ad10-49bc-8af7-8c97d7514f06)
+
+
+
    
