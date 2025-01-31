@@ -5,9 +5,9 @@ To develop a program that prompts the user to input the number of processes, the
 The primary objective of this project is to create a software tool that can simulate the 
 execution of processes in a CPU using different scheduling algorithms and then evaluate 
 their performance based on two key metrics:
-a. Average Waiting Time: This metric measures the average amount of time a 
+- a. Average Waiting Time: This metric measures the average amount of time a 
 process spends waiting in the ready queue before getting CPU time.
-b. Average Turnaround Time: It calculates the average time taken for a process to 
+- b. Average Turnaround Time: It calculates the average time taken for a process to 
 complete execution, from arrival in the ready queue to termination.
 
 2. Simulation:
